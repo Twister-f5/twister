@@ -53,7 +53,7 @@ icon = "ti-facebook"
 URL = "#https://www.instagram.com/danielacollova/"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
+URL = ""
 icon = "ti-dribbble"
 [[params.social]]
 URL = ""
