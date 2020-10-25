@@ -16,6 +16,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Office
+    progress: 80%
+    color: "#41276e"
   - title: Adobe Illustrator
     progress: 90%
     color: "#fdb157"
