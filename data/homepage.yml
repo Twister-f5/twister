@@ -43,17 +43,13 @@ experience:
     title: Architetto junior
     company: 'Consorzio Vitruvio '
     duration: AGO 2017 - SETT 2017
-  - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
 education:
   enable: true
   title: Istruzione
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
+  - title: Certificazione Autodesk Revit 2018 modulo Standard
+    year: "2017"
+    academy: Eureka Engineering Srl
   - title: Laurea in Architettura LM4
     year: "2020"
     academy: Università degli Studi di Palermo
