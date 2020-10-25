@@ -16,7 +16,7 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Adobe Illustrator
     progress: 90%
     color: "#fdb157"
   - title: Logo Design
