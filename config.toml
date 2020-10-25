@@ -50,7 +50,7 @@ preloader = ""
 URL = "#https://www.facebook.com/danielacollova"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "#https://www.instagram.com/danielacollova/"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
