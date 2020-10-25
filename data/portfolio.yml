@@ -1,7 +1,7 @@
 ---
 item:
 - image: "/images/enscape_2020-03-19-09-20-11.jpg"
-  project_url: ''
+  project_url: "/images/enscape_2020-03-19-09-20-11.jpg"
   category:
   - Architecture
 - image: images/portfolio/item-2.png
