@@ -1,13 +1,13 @@
 ---
 banner:
-  title: Hi! I’m <br> Christoher <br> UX designer
+  title: Hi! Sono <br> Daniela <br> Architetto e appassionata di grafica
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: Mi sono laureata nel Marzo 2020 sperimentando la smart degree, con una
+    tesi sul recupero dell'archeologia industriale dismessa perchè interessata ai
+    vuoti urbani e agli edifici abbandonati con usi versatili; allo stesso tempo sono
+    una grande appassionata di illustrazione e animazione, così da essere sempre stata
+    attenta all'aspetto grafico di un elaborato e all'effetto sugli osservatori.
   button:
     enable: true
     label: know more
