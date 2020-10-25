@@ -55,7 +55,7 @@ education:
     year: "2007"
     academy: Liceo Scientifico Archimede
 service:
-  enable: false
+  enable: true
   title: Services
   item:
   - title: 'Grafica '
