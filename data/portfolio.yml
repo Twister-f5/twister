@@ -4,7 +4,7 @@ item:
   project_url: "/images/enscape_2020-03-19-09-20-11.jpg"
   category:
   - Architecture
-- image: images/portfolio/item-2.png
+- image: "/images/12.png"
   project_url: "#"
   category: branding
 - image: images/portfolio/item-3.png
