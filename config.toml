@@ -56,5 +56,5 @@ icon = "ti-instagram"
 URL = "#"
 icon = "ti-dribbble"
 [[params.social]]
-URL = "#https://digitazon.com/profile/"
-icon = "ti-digitazon-alt"
+URL = ""
+icon = ""
