@@ -47,7 +47,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = false
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "#https://www.facebook.com/danielacollova"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
