@@ -7,7 +7,9 @@ item:
   - Tecnologia
 - image: "/images/planivolumetrico-per-sito.jpg"
   project_url: https://danielacol8.wixsite.com/website/la-forma-dell-acqua
-  category: branding
+  category:
+  - progettazione urbana
+  - architettura
 - image: images/portfolio/item-3.png
   project_url: http://examplesite.com
   category: illustration
