@@ -7,3 +7,5 @@ description: This is meta description.
 danielacollova@gmail.com
 
 \+39 3200613647
+
+www.linkedin.com/in/daniela-collovà
