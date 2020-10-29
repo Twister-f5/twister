@@ -5,7 +5,7 @@ theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contatti"
 url = "www.linkedin.com/in/daniela-collovà"
 weight = 4
 [[menu.main]]
