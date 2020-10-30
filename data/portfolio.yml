@@ -18,7 +18,7 @@ item:
 - image: images/portfolio/item-5.png
   project_url: "#"
   category: design
-- image: images/portfolio/item-8.png
+- image: "/images/immagine-per-sito.jpg"
   project_url: http://examplesite.com
   category: illustration
 - image: images/portfolio/item-6.png
