@@ -18,10 +18,10 @@ item:
 - image: "/images/per-sito-lab-giardini.jpg"
   project_url: "#"
   category: design
-- image: "/images/immagine-per-sito-restauro.jpg"
+- image: "/images/immagine-per-sito.jpg"
   project_url: http://examplesite.com
   category: illustration
-- image: "/images/immagine-per-sito.jpg"
+- image: "/images/immagine-per-sito-restauro.jp"
   project_url: "#"
   category: design
 - image: "/images/plani-urba.jpg"
