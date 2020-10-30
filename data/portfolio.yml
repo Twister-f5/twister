@@ -27,7 +27,7 @@ item:
 - image: "/images/plani-urba.jpg"
   project_url: http://examplesite.com
   category: branding
-- image: images/portfolio/item-3.png
+- image: "/images/port-concorso-chiosco.jpg"
   project_url: "#"
   category: illustration
 - image: images/portfolio/item-7.png
