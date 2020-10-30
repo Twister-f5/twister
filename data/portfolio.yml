@@ -10,9 +10,11 @@ item:
   category:
   - progettazione urbana
   - architettura
-- image: images/portfolio/item-3.png
+- image: "/images/assonometria-lab4.jpg"
   project_url: http://examplesite.com
-  category: illustration
+  category:
+  - Architettura
+  - Revit
 - image: images/portfolio/item-5.png
   project_url: "#"
   category: design
