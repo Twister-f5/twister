@@ -15,7 +15,7 @@ item:
   category:
   - Architettura
   - Revit
-- image: images/portfolio/item-5.png
+- image: "/images/per-sito-lab-giardini.jpg"
   project_url: "#"
   category: design
 - image: "/images/immagine-per-sito-restauro.jpg"
@@ -30,7 +30,7 @@ item:
 - image: "/images/port-concorso-chiosco.jpg"
   project_url: "#"
   category: illustration
-- image: images/portfolio/item-7.png
+- image: "/images/grafica-e-mostra.jpg"
   project_url: http://examplesite.com
   category: branding
 clients_logo_slider:
