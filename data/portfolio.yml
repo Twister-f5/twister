@@ -24,7 +24,7 @@ item:
 - image: "/images/immagine-per-sito.jpg"
   project_url: "#"
   category: design
-- image: images/portfolio/item-1.png
+- image: "/images/plani-urba.jpg"
   project_url: http://examplesite.com
   category: branding
 - image: images/portfolio/item-3.png
