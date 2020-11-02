@@ -36,3 +36,7 @@ item:
 clients_logo_slider:
   enable: false
   title: My Clients
+menu:
+  main:
+    name: Polo delle Scienze e tecnologie agrarie
+    weight: 5
