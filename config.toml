@@ -54,7 +54,7 @@ URL = "#https://www.instagram.com/danielacollova/"
 icon = "ti-instagram"
 [[params.social]]
 URL = "www.linkedin.com/in/daniela-collovà"
-icon = "#LinkedIn"
+icon = ""
 [[params.social]]
 URL = ""
 icon = "ti-twistter-alt"
